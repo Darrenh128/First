@@ -3,7 +3,7 @@ import turtle
 # screen colour
 # bgcolor = background colour
 screen_colour = turtle.Screen()
-screen_colour.bgcolor("green")
+screen_colour.bgcolor("blue")
 
 #Turtle colour
 my_turtle = turtle.Turtle()
